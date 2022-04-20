@@ -9,6 +9,9 @@
   
    
   }
+  body img {
+    width :100%;
+  }
   html {
     background-image: url("../images/backround.jpeg");
     background-attachment: fixed;
